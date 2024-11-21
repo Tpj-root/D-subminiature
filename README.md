@@ -37,6 +37,14 @@ The D-subminiature or D-sub is a common type of electrical connector.
 
 
 
+<p align="center">
+  <img src="PCB_symbol\Male_EdgeMount.jpg" width="300" height="150">
+  <img src="PCB_symbol\M_withmount.jpg" width="300" height="150">
+  <img src="PCB_symbol\F_withmount.jpg" width="300" height="150">
+  <img src="PCB_symbol\Female_EdgeMount.jpg" width="300" height="150">
+</p>
+
+
 
 
 | No | Name | PCB_symbol | PCB_FootPrint | 3D_model | Price |  Info  |
