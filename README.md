@@ -29,6 +29,12 @@ The D-subminiature or D-sub is a common type of electrical connector.
 
 
 
+<p align="center">
+  <img src="PCB_symbol\Dim.png" width="972" height="327">
+</p>
+
+
+
 
 
 
@@ -65,12 +71,6 @@ The D-subminiature or D-sub is a common type of electrical connector.
 
 
 
-
-
-
-
-
-
 **DSUB-26**
 
 **DSUB-37**
@@ -78,13 +78,6 @@ The D-subminiature or D-sub is a common type of electrical connector.
 **DSUB-44**
 
 **DSUB-62**
-
-
-
-
-
-
-
 
 
 
