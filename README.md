@@ -18,7 +18,7 @@ The D-subminiature or D-sub is a common type of electrical connector.
 
 
 | No | Name | PCB_symbol | PCB_FootPrint | 3D_model | Price |  Info  |
-| --- |  --- | :---: | :---: | --- | --- |
+| --- |  --- | :---: | :---: | --- | --- | --- |
 | 01 | DB25 D-Sub |  <p align="center"><img src="PCB_symbol\DB25_M.png" width="100" height="80" ></p> | <p align="center"><img src="PCB_FootPrint_png\DSUB-25_Male_EdgeMount_P2.77mm.png" width="100" height="80"></p> | - | 20 | |
 
 
