@@ -48,6 +48,26 @@ The D-subminiature or D-sub is a common type of electrical connector.
 | --- |  --- | Male | Vertical | --- | --- | --- |
 | 09 | DB25 |  <p align="center"><img src="PCB_symbol\DB25_M_withmount.png" width="200" height="120" ></p> | <p align="center"><img src="PCB_FootPrint_png\DSUB-25_Male_Vertical_P2.77x2.84mm.png" width="200" height="120"></p> | - | - | P2.77x2.84mm |
 | 10 | DB25 |  <p align="center"><img src="PCB_symbol\DB25_M_withmount.png" width="200" height="120" ></p> | <p align="center"><img src="PCB_FootPrint_png\DSUB-25_Male_Vertical_P2.77x2.84mm_MountingHoles.png" width="200" height="120"></p> | - | - | P2.77x2.84mm_MountingHoles |
+| --- |  --- | :---: | :---: | --- | --- | --- |
+| 11 | DB25 |  <p align="center"><img src="PCB_symbol\DB25_F.png" width="200" height="120" ></p> | <p align="center"><img src="PCB_FootPrint_png\DSUB-25_Female_EdgeMount_P2.77mm.png" width="200" height="120"></p> | - | 20 | DSUB-25_Female_EdgeMount_P2.77mm |
+| --- |  --- | Female | Horizontal | --- | --- | --- |
+| 12 | DB25 |  <p align="center"><img src="PCB_symbol\DB25_F_withmount.png" width="200" height="120" ></p> | <p align="center"><img src="PCB_FootPrint_png\DSUB-25_Female_Horizontal_P2.77x2.54mm_EdgePinOffset9.40mm.png" width="200" height="120"></p> | - | - | P2.77x2.54mm EdgePinOffset = 9.40mm |
+| 13 | DB25 |  <p align="center"><img src="PCB_symbol\DB25_F_withmount.png" width="200" height="120" ></p> | <p align="center"><img src="PCB_FootPrint_png\DSUB-25_Female_Horizontal_P2.77x2.84mm_EdgePinOffset9.40mm.png" width="200" height="120"></p> | - | - | P2.77x2.84mm_EdgePinOffset9.40mm |
+| 14 | DB25 |  <p align="center"><img src="PCB_symbol\DB25_F_withmount.png" width="200" height="120" ></p> | <p align="center"><img src="PCB_FootPrint_png\DSUB-25_Female_Horizontal_P2.77x2.84mm_EdgePinOffset9.90mm_Housed_MountingHolesOffset11.32mm.png" width="200" height="120"></p> | - | - | P2.77x2.84mm_EdgePinOffset9.90mm_Housed_MountingHolesOffset11.32mm |
+| 15 | DB25 |  <p align="center"><img src="PCB_symbol\DB25_F_withmount.png" width="200" height="120" ></p> | <p align="center"><img src="PCB_FootPrint_png\DSUB-25_Female_Horizontal_P2.77x2.84mm_EdgePinOffset14.56mm_Housed_MountingHolesOffset8.20mm.png" width="200" height="120"></p> | - | - | P2.77x2.84mm_EdgePinOffset14.56mm_Housed_MountingHolesOffset8.20mm |
+| 16 | DB25 |  <p align="center"><img src="PCB_symbol\DB25_F_withmount.png" width="200" height="120" ></p> | <p align="center"><img src="PCB_FootPrint_png\DSUB-25_Female_Horizontal_P2.77x2.84mm_EdgePinOffset14.56mm_Housed_MountingHolesOffset15.98mm.png" width="200" height="120"></p> | - | - | P2.77x2.84mm_EdgePinOffset14.56mm_Housed_MountingHolesOffset15.98mm |
+| 17 | DB25 |  <p align="center"><img src="PCB_symbol\DB25_F_withmount.png" width="200" height="120" ></p> | <p align="center"><img src="PCB_FootPrint_png\DSUB-25_Female_Horizontal_P2.77x2.84mm_EdgePinOffset4.94mm_Housed_MountingHolesOffset7.48mm.png" width="200" height="120"></p> | - | - | P2.77x2.84mm_EdgePinOffset4.94mm_Housed_MountingHolesOffset7.48mm |
+| 18 | DB25 |  <p align="center"><img src="PCB_symbol\DB25_F_withmount.png" width="200" height="120" ></p> | <p align="center"><img src="PCB_FootPrint_png\DSUB-25_Female_Horizontal_P2.77x2.84mm_EdgePinOffset7.70mm_Housed_MountingHolesOffset9.12mm.png" width="200" height="120"></p> | - | - | P2.77x2.84mm_EdgePinOffset7.70mm_Housed_MountingHolesOffset9.12mm |
+| --- |  --- | Female | Vertical | --- | --- | --- |
+| 19 | DB25 |  <p align="center"><img src="PCB_symbol\DB25_F_withmount.png" width="200" height="120" ></p> | <p align="center"><img src="PCB_FootPrint_png\DSUB-25_Female_Vertical_P2.77x2.84mm.png" width="200" height="120"></p> | - | - | P2.77x2.84mm |
+| 20 | DB25 |  <p align="center"><img src="PCB_symbol\DB25_F_withmount.png" width="200" height="120" ></p> | <p align="center"><img src="PCB_FootPrint_png\DSUB-25_Female_Vertical_P2.77x2.84mm_MountingHoles.png" width="200" height="120"></p> | - | - | P2.77x2.84mm_MountingHoles |
+
+
+
+
+
+
+
 
 
 
