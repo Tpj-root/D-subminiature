@@ -47,6 +47,16 @@ The D-subminiature or D-sub is a common type of electrical connector.
 
 
 
+
+
+**DataSheet**
+
+```
+https://kicad.github.io/footprints/Connector_Dsub
+```
+
+
+
 | No | Name | PCB_symbol | PCB_FootPrint | 3D_model | Price |  Info  |
 | --- |  --- | :---: | :---: | --- | --- | --- |
 | --- |  --- | Male | EdgeMount | --- | --- | --- |
